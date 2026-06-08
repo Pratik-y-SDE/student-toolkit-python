@@ -2,7 +2,7 @@
 """
 Student Toolkit
 ===============
-A command-line utility for BCA / CS students.
+A command-line utility for CS students.
 
 Tools included:
   1. GPA Calculator  -- SGPA and CGPA computation
